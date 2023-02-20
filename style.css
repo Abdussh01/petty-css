@@ -1,0 +1,25 @@
+.blog{
+    background-color: coral;
+    border: 20px solid black;
+    border-radius: 10px;
+    margin:50px auto;
+    margin-bottom: 10px;
+    height: 300px;
+    width: 50%;
+    padding:10px;
+
+
+}
+.blog-text{
+    text-align: center;
+    font-style: italic;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 400px;
+}
+.lorem{
+    color: blanchedalmond;
+    text-align: justify;
+}
+.author{
+    color: greenyellow;
+}
